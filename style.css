@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   padding: 0;
-  background-color: #cdd8ee;
+  background-color: #c5d4f4;
   color: #00020b;
   padding: 20px;
   text-align: center;
@@ -70,4 +70,3 @@ body {
   text-align: left;
   border: 3px dashed;
 }
-
